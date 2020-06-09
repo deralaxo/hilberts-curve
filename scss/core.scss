@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: dark){
+    body {
+        background-color: #1b262c;
+    }
+}
+
+@media (prefers-color-scheme: light){
+    body {
+        background-color: darken(white,10);
+    }
+}
